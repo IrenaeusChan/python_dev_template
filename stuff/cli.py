@@ -2,7 +2,7 @@ import os, sys, signal
 import click
 from clint.textui import puts, colored
 
-from src.version import __version__
+from stuff.version import __version__
 #import ch.utils.logger as log
 
 CONTEXT_SETTINGS = dict(help_option_names=['-h', '--help'])
