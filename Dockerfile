@@ -15,6 +15,7 @@ RUN apt-get update -qq \
     build-essential \
     git \
     less \
+    procps \
     libnss-sss \
     libcurl4-openssl-dev \
     curl \
